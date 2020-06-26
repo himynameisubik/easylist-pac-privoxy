@@ -2282,7 +2282,9 @@ var bad_da_host_JSON = { "jobthread.com": null,
 "ios-quinoa-events-prod.sense360eng.com": null,
 "ios-quinoa-high-frequency-events-prod.sense360eng.com": null,
 "v1.blueberry.cloud.databerries.com": null,
-"outbrain.com": null };
+"outbrain.com": null,
+"obdev.at": null,
+};
 var bad_da_host_exact_flag = 2050 > 0 ? true : false;  // test for non-zero number of rules
     
 // 9 rules as an efficient NFA RegExp:
